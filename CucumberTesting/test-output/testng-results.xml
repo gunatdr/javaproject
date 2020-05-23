@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="752" started-at="2020-06-02T13:01:02Z" finished-at="2020-06-02T13:01:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="752" started-at="2020-06-02T13:01:02Z" finished-at="2020-06-02T13:01:03Z">
+      <class name="com.testautomation.TestRunner.TestRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.testautomation.TestRunner.TestRunner@25e70]" name="setUpClass" is-config="true" duration-ms="541" started-at="2020-06-02T18:31:02Z" finished-at="2020-06-02T18:31:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.testautomation.TestRunner.TestRunner@25e70]" name="tearDownClass" is-config="true" duration-ms="13" started-at="2020-06-02T18:31:03Z" finished-at="2020-06-02T18:31:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.testautomation.TestRunner.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
